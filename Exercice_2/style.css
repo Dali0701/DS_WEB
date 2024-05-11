@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-content: end;
+    height: 100px;
+    background-color: greenyellow;
+}
